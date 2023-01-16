@@ -1,4 +1,4 @@
-**********how to add any project on gitHub**********
+**********how to add any file on gitHub**********
 
 
 git init
