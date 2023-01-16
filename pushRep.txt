@@ -1,0 +1,10 @@
+**********how to add any project on gitHub**********
+
+
+git init
+git add -A
+git commit -m "type any side-note"
+git remote add origin https://github.com/HTTPSpasteHere.git
+git branch main     >>>>>"you can select branch"
+git checkout main   >>>>>"main is my branch name."
+git push origin main    >>>>"and the file will upload on your github repository"
