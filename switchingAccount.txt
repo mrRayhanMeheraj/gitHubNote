@@ -1,0 +1,7 @@
+*******how to change git user name and user email*********
+step1>>> go to gitbash terminal
+step2>>> type> git config user.name    >>>>press enter
+step3>>> type> git config user.email   >>>>press enter
+step4>>> type> git config --global user.name "your_username"   >>>press enter
+step5>>> type> git config --global user.email "your_email"     >>>press enter
+
